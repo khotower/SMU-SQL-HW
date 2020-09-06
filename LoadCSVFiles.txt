@@ -1,0 +1,6 @@
+\COPY Title FROM 'C:\Users\owner\Desktop\Final-HW-Repository-kho-SMU\Homework for SQL\02-Homework_09-SQL_Instructions_data_titles.csv' WITH (FORMAT csv, HEADER) ;
+\COPY Employee FROM 'C:\Users\owner\Desktop\Final-HW-Repository-kho-SMU\02-Homework_09-SQL_Instructions_data_employees.csv' WITH (FORMAT csv, HEADER) ;
+\COPY Departments FROM 'C:\Users\owner\Desktop\Final-HW-Repository-kho-SMU\02-Homework_09-SQL_Instructions_data_departments.csv' WITH (FORMAT csv, HEADER) ;
+\COPY Salary FROM 'C:\Users\owner\Desktop\Final-HW-Repository-kho-SMU\02-Homework_09-SQL_Instructions_data_salaries.csv' WITH (FORMAT csv, HEADER) ;
+\COPY Dept_Manager FROM 'C:\Users\owner\Desktop\Final-HW-Repository-kho-SMU\02-Homework_09-SQL_Instructions_data_dept_manager.csv' WITH (FORMAT csv, HEADER) ;
+\COPY Dept_Emp FROM 'C:\Users\owner\Desktop\Final-HW-Repository-kho-SMU\02-Homework_09-SQL_Instructions_data_dept_emp.csv' WITH (FORMAT csv, HEADER) ;
